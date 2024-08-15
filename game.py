@@ -11,6 +11,7 @@ import pygame
 from utils import Timer
 from vec2d import vec2d
 from widgets import *
+
 #You were importing all widgets anyway, and there was an unknown error. 
 
 class Game(object):
